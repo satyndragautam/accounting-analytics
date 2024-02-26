@@ -1,4 +1,4 @@
-# 💲 Accounting Analytics
+# :calculator: Accounting Analytics
 
 
 As my curiosity leads me to learn something new, I regularly crave ways to educate and improve myself. While still enjoying parenting with my first-born, I made sure to add new skills and improve existing ones. So, I decided to take on a new challenge and enroll in a certification program in accounting analytics, designed to provide fundamental knowledge in Accounting.
