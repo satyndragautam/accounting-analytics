@@ -16,4 +16,4 @@ In the end, I successfully developed a deep understanding of how to effectively 
 <hr>
 <br>
 
-Please Note: The hands-on-experience and exercises were done using speadsheets. I will add them here in this repo for a better visibility in upcoming months. 
+Please Note: During this program, there were multiple exercises and projects done using speadsheets. I will add them here in this repo for a better visibility in upcoming months. 
